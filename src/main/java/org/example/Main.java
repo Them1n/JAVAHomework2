@@ -19,6 +19,6 @@ public class Main {
         // i = i++ + ++i; out = 12
         i = ++i + ++i;
         System.out.println(i);
-        // through all of this operation is is being viewed clearly logic
+        // through all of this operation is being viewed clearly logic
     }
 }
